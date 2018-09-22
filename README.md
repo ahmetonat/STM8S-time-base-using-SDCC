@@ -1,7 +1,7 @@
 # STM8S-time-base-using-SDCC
-Timebase function using TIM1 overflow INT and multi-file project example
+Time base function using TIM1 overflow INT and multi-file project example
 
-This is an example of inmplementing a time base for the STM8 with SDCC. It demonstrates a blocking Dleayms function, and a non blocking function. It also shows how a multiple file project can be built using multiple Makefiles.
+This is an example of inmplementing a time base for the STM8 with SDCC. It demonstrates a blocking Delayms function, and a non blocking function. It also shows how a multiple file project can be built using multiple Makefiles.
 
 To run, connect the STM8S103F board over a ST-LINK programmer SWIM port, modify the two Makefiles to suit your directory structure, and type
 
